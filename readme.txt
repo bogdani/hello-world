@@ -1,2 +1,3 @@
 just another text file
-a new line
+a new line 
+anoter new line
